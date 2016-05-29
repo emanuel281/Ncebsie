@@ -1,0 +1,23 @@
+{
+  "name": "art_and_culture_site",
+  "version": "1.0.0",
+  "description": "Art and Culture website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuel281/art_and_culture_site.git"
+  },
+  "author": "Emanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuel281/art_and_culture_site/issues"
+  },
+  "homepage": "https://github.com/emanuel281/art_and_culture_site#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
